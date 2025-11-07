@@ -4,4 +4,4 @@ description: Material composition is a repository of ideas and techniques that e
 It has been developed by Emiddio Vasquez as part of his PhD research work and makes use of IRCAM's Modalys library.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal
